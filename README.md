@@ -1,4 +1,4 @@
-### Hi Vinayak welcome to my world 👋
+### Hi welcome to my world 👋
 
 <!--
 **Vinayak133/Vinayak133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
